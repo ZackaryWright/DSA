@@ -1,4 +1,7 @@
-# Data Structures & Algorithms Problems/Solutions and Notes
+# Data Structures & Algorithms Notes
+
+## Table of Contents
+- [Arrays](https://github.com/ZackaryWright/DSA#arrays)
 
 ## **Arrays**
 - A linear collection of memory locations, which each hold data/values.
