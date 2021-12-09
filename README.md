@@ -2,8 +2,11 @@
 Collection of Data Structures &amp; Algorithms Problems and Solutions
 
 ## **Arrays**
+- A linear collection of memory locations, which each hold data/values.
+- **Static Arrays**: An array that has a fixed amount of memory to store its data. 
+- **Dynamic Arrays**: Implementation of array that doubles the amount of allocation of memory that is used to store data within an array in a fashion that allows the array to grow as more data needs to be stored.
 
-### Operation Times
+### Operations/ Time Complexities
 
 - **Access Value**: O(1)
 - **Set Value**: O(1) 
