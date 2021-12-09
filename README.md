@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Arrays](https://github.com/ZackaryWright/DSA#arrays)
-- [Linked Lists](https://github.com/ZackaryWright/DSA#linked_lists)
+- [Linked Lists](https://github.com/ZackaryWright/DSA#linked-lists)
 
 ## **Arrays**
 - A linear collection of memory locations, which each hold data/values.
