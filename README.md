@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Arrays](https://github.com/ZackaryWright/DSA#arrays)
+- [Linked Lists](https://github.com/ZackaryWright/DSA#linked_lists)
 
 ## **Arrays**
 - A linear collection of memory locations, which each hold data/values.
@@ -22,3 +23,39 @@
     - At end of array: O(1)
 - **Copy Array**: O(n)
 
+
+
+## **Linked Lists**
+- **Singly Linked List**: A collection of nodes that contain data, where each node contains a pointer to the next node in the list. 
+- **Doubly Linked List**: A collection of nodes that contain data, where each node contains a pointer to both the previous and next node in the list.
+
+### Operations/ Time Complexities
+
+#### Singly Linked List
+- **Access Head Node**: O(1)
+- **Access Middle Node**: O(n) 
+- **Access Tail Node**: O(n)
+- **Insert Node**:
+    - Insert Head Node: O(1)
+    - Insert Node in Middle(Non-head/Non-tail node): O(1) in addition to O(n) access time
+    - Insert Tail Node: O(1) in addition to O(n) access time
+- **Remove Node**:
+    - Remove Head Node: O(1)
+    - Remove Node in Middle(Non-head/Non-tail node): O(1) in addition to O(n) access time
+    - Remove Tail Node: O(1) in addition to O(n) access time
+- **Search for Node**: O(n)
+
+
+#### Doubly Linked List
+- **Access Head Node**: O(1)
+- **Access Middle Node**: O(n) 
+- **Access Tail Node**: O(1)
+- **Insert Node**:
+    - Insert Head Node: O(1)
+    - Insert Node in Middle(Non-head/Non-tail node): O(1) in addition to O(n) access time
+    - Insert Tail Node: O(1)
+- **Remove Node**:
+    - Remove Head Node: O(1)
+    - Remove Node in Middle(Non-head/Non-tail node): O(1) in addition to O(n) access time
+    - Remove Tail Node: O(1)
+- **Search for Node**: O(n)
