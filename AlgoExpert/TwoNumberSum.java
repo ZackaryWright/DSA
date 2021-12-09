@@ -2,7 +2,7 @@ import java.util.*;
 
 class Program {
   public static int[] twoNumberSum(int[] array, int targetSum) {
-//  O(n) T | O(n) S
+//  O(n) Time Complexity | O(n) Space Complexity
 		
 		int[] output = new int[2];
 		HashMap<Integer,Integer> map = new HashMap<>();
