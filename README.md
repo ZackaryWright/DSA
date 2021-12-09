@@ -31,7 +31,7 @@
 
 ### Operations/ Time Complexities
 
-#### Singly Linked List
+#### **Singly Linked List**
 - **Access Head Node**: O(1)
 - **Access Middle Node**: O(n) 
 - **Access Tail Node**: O(n)
@@ -46,7 +46,7 @@
 - **Search for Node**: O(n)
 
 
-#### Doubly Linked List
+#### **Doubly Linked List**
 - **Access Head Node**: O(1)
 - **Access Middle Node**: O(n) 
 - **Access Tail Node**: O(1)
