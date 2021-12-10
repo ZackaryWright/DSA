@@ -75,4 +75,4 @@
 - **Remove Key/Value**: O(1) average case, O(n) worst case 
 
 #### **NOTE**: 
-*O(n) worst case -> when a lot of collisions are present in such a way that a linkedlist within an index of the array fro hash table must be traversed through completely.
+O(n) worst case -> when a lot of collisions are present in such a way that a linkedlist within an index of the array fro hash table must be traversed through completely.
