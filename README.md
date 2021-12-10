@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Arrays](https://github.com/ZackaryWright/DSA#arrays)
 - [Linked Lists](https://github.com/ZackaryWright/DSA#linked-lists)
+- [Hash Tables](https://github.com/ZackaryWright/DSA#hash-tables)
 
 ## **Arrays**
 - A linear collection of memory locations, which each hold data/values.
@@ -59,3 +60,19 @@
     - Remove Node in Middle(Non-head/Non-tail node): O(1) in addition to O(n) access time
     - Remove Tail Node: O(1)
 - **Search for Node**: O(n)
+
+
+
+## **Hash Tables**
+- Data structure stores key/value pairs using a dynamically sized array of linked lists.
+- Hash Tables use hash functions to properly store these values and minimize collisions when storing them.
+- **Collision**: The case of two keys being mapped within table to the same index of the array used to implement a hash table.
+
+### Operations/ Time Complexities
+
+- **Access/Lookup Key**: O(1) average case, O(n) worst case
+- **Insert Key/Value**: O(1) average case, O(n) worst case
+- **Remove Key/Value**: O(1) average case, O(n) worst case 
+
+#### **NOTE**: 
+*O(n) worst case -> when a lot of collisions are present in such a way that a linkedlist within an index of the array fro hash table must be traversed through completely.
