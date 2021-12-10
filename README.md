@@ -64,7 +64,7 @@
 
 
 ## **Hash Tables**
-- Data structure stores key/value pairs using a dynamically sized array of linked lists.
+- Data structure that stores key/value pairs using a dynamically sized array of linked lists.
 - Hash Tables use hash functions to properly store these values and minimize collisions when storing them.
 - **Collision**: The case of two keys being mapped within table to the same index of the array used to implement a hash table.
 
