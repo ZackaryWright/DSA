@@ -2,6 +2,12 @@
 
 ### 👋 Hey everyone! This is basically a compilation of my notes and practice questions that I have used to study for coding interviews. I am making this public and hope that this is helpful as a resource in your studying too!
 
+## Useful Resources
+- [AlgoExpert](https://www.algoexpert.io/)
+- [LeetCode](https://leetcode.com/)
+- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+
+
 ## Table of Contents
 - [Arrays](https://github.com/ZackaryWright/DSA#arrays)
 - [Linked Lists](https://github.com/ZackaryWright/DSA#linked-lists)
