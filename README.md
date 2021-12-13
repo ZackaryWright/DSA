@@ -1,4 +1,6 @@
-# Data Structures & Algorithms Notes
+# Data Structures & Algorithms Notes 📖
+
+### Hey everyone! This is basically a compilation of my notes and practice questions that I have used to study for coding interviews. I am making this public and hope that this is helpful as a resource in your studying too!
 
 ## Table of Contents
 - [Arrays](https://github.com/ZackaryWright/DSA#arrays)
